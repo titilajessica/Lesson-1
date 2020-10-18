@@ -1,43 +1,43 @@
 <!DOCTYPE html>
+<html lang=“english”>
 
-<html>
-
-<h1> Giovanni Verga </h1>
+<h1> What is Lorem Ipsum? </h1>
 
 <body>
 
-<h5>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+ 
+ <hr>
+ 
+ <p>
 
-Il termine Verismo deriva dalla parola vero:secondo i veristi lo scrittore ha il compito di riprodurre la realta' in modo oggettivo e di far emergere la verita' senza esprimere giudizi ne' partecipare emotivamente.
+ It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+ It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ 
+</p>
 
-</h5>
+ <hr>
 
-<hr>
+ <h1> Where does it come from? </h1>
 
-<h5>
+ <p>
 
-Il verismo si colloca in una epoca storica in cui trionfa la borghesia industriale : in questi anni si fanno grandi scoperte scientifiche, si inventano nuove macchine, come quella a vapore, c'e' un continuo progresso della tecnica. 
-</h5>
+ Contrary to popular belief, Lorem Ipsum is not simply random text. 
+ It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. 
+ Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
+ This book is a treatise on the theory of ethics, very popular during the Renaissance. 
+ The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-<hr>
+ </p>
 
-<h5>
+hr
 
-E' anche l'epoca in cui si sviluppa la “questione sociale”: le masse dei lavoratori prendono coscienza dei loro diritti e delle disuguaglianze sociali e crecano di lottare contro il capitalismo. Il Verismo ha le sue radici nel Positivismo e nel Naturalismo.
+ <p>
 
-</h5>
+ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. 
+ Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-<hr>
-  
-  <p> 
-  Il pessimismo, poiche' esprimono una concezione pessimista della vita del destino del popolo; L'impersonalita' perche' rappresentano la realta' in modo oggettivo, senza commentarla o interpretarla;
-  </p>
-  
-   <p>
-   Il linguaggio: gli scrittori veristi adottano la lingua nazionale della gente semplice, senza pero' far ricorso al dialetto. Il Verismo si sviluppa a Milano, dove si ritrovano intellettuali di regioni diverse. Cosi' la Sicilia e' descritta nelle opere di Giovanni Verga, la Campania nelle opere di Matilde Serao, la Sardegna nelle opere di Grazia Deledda. 
-   </p>
-  
-  
-  </body>
-  
-</html>
+ </p>
+
+ </body>
