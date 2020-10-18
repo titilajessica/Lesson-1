@@ -1,47 +1,43 @@
-<html lang=“english”>
-<head>
-<meta charset = “UTF-8”>
-<title> Final Project </title>
-</head>
+<!DOCTYPE html>
+
+<html>
+
+<h1> Giovanni Verga </h1>
+
 <body>
-<header>
-<h1>Titila Jessica <h/1>
-<nav>
-<a href =“http://example.html/1”> One </a>
-<a href =“http://example.html/2”> Two </a>
-<a href =“http://example.html/3”> Three </a>
-<a href =“http://example.html/7”> Seven </a>
-</nav>
-</header>
 
-<h2>Favourite Foods </h2>
-<ul> 
-			<li> Strawberries </li>
-			<li> Pizza </li>
-			<li> Soul Food </li>
-			<li> Lasagna </li>
+<h5>
 
-</ul>
-<section>
-		<h2> achievements </h2>
-		Progress in this course (100%) <progress value=“100” max=“100”></progress>
-		<br>
-		Progress in the specialisation capstone (20%)<progress value= “20” max=“100”></progress>
-		<br>
-		Progress in life goals (55%) <progress value= “55” max=“100”></progress>	
-</section>
-<section>
-<h2> More about Me </h2>
-<details>
-<summary> My Childhood </summary>
-<p> I grow in a Caserta province in Southern Italy. I really miss the beer and mozzarella ’s party during the summer </p>
-</details>
-</section>
-<footer>
-<p>
-This page was created by Titila Jessica & Colleen Van Lent. 
-<img src = "myPicture.jpg"> </a> 
-</p>
-</footer>
-</body>
+Il termine Verismo deriva dalla parola vero:secondo i veristi lo scrittore ha il compito di riprodurre la realta' in modo oggettivo e di far emergere la verita' senza esprimere giudizi ne' partecipare emotivamente.
+
+</h5>
+
+<hr>
+
+<h5>
+
+Il verismo si colloca in una epoca storica in cui trionfa la borghesia industriale : in questi anni si fanno grandi scoperte scientifiche, si inventano nuove macchine, come quella a vapore, c'e' un continuo progresso della tecnica. 
+</h5>
+
+<hr>
+
+<h5>
+
+E' anche l'epoca in cui si sviluppa la “questione sociale”: le masse dei lavoratori prendono coscienza dei loro diritti e delle disuguaglianze sociali e crecano di lottare contro il capitalismo. Il Verismo ha le sue radici nel Positivismo e nel Naturalismo.
+
+</h5>
+
+<hr>
+  
+  <p> 
+  Il pessimismo, poiche' esprimono una concezione pessimista della vita del destino del popolo; L'impersonalita' perche' rappresentano la realta' in modo oggettivo, senza commentarla o interpretarla;
+  </p>
+  
+   <p>
+   Il linguaggio: gli scrittori veristi adottano la lingua nazionale della gente semplice, senza pero' far ricorso al dialetto. Il Verismo si sviluppa a Milano, dove si ritrovano intellettuali di regioni diverse. Cosi' la Sicilia e' descritta nelle opere di Giovanni Verga, la Campania nelle opere di Matilde Serao, la Sardegna nelle opere di Grazia Deledda. 
+   </p>
+  
+  
+  </body>
+  
 </html>
